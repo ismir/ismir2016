@@ -13,7 +13,7 @@
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no" />
-<link rel="profile" href="/ismir2016/resources/gmpg/xfn/11" />
+<link rel="profile" href="/resources/gmpg/xfn/11" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <?php if( '' != of_get_option('favicon') ){ ?>
 <link rel="icon" href="<?php echo esc_url( of_get_option('favicon', "" ) ); ?>" type="image/x-icon" />
